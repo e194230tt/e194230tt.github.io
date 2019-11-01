@@ -1,0 +1,20 @@
+body{
+    background-image: url(../images/03.jpg);
+    background-attachment: fixed;
+}
+h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+h2{
+    background-color: palegreen;
+    text-align: center;
+}
+h3{
+    color: mediumblue;
+    
+}
+p{
+    color: brown;
+}
