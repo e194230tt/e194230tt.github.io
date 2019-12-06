@@ -1,0 +1,49 @@
+div.title{
+    width:1000px;
+    height:40px;
+    background-color: gray;
+    margin-bottom: 20px;
+}
+div.body{
+    width:1000px;
+    height:320px;
+}
+div.menu{
+    width: 250px;
+    height:320px;
+    vertical-align: top;
+    display: inline-block;
+    margin-right: 50px;
+    background-color: gray;
+}
+div.menuitem{
+    width: 250px;
+    height: 100px;
+    background-color: red;
+    margin-bottom: 10px;
+}
+div.imart{
+    width:700px;
+    height:320px;
+    vertical-align: top;
+    display: inline-block;
+}
+div.image{
+    width:700px;
+    height:300px; 
+    vertical-align: top;
+    background-color: black;
+    color: white;
+}
+div.article{ 
+    width: 700px;
+    height:20px;
+    background-color: blue;
+}
+div.footer{
+    width:1000px;
+    height:40px;
+    margin-top: 20px;
+    background-color: orange;
+    text-align: left;
+}
